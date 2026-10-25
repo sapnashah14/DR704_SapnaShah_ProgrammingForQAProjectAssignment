@@ -6,18 +6,18 @@ This repository contains my project assignments covering SQL, HTML, and Core Jav
 
 ## Project Structure
 
-- `01_sql_file` – Individual SQL task files (Tasks 1–9).
-- `02_final_sql` – Combined SQL file containing all tasks.
-- `03_sql_ss` – Screenshots of SQL task outputs.
-- `04_html` – HTML files and related screenshots.
-- `05_core_java_project` – Java source files and transaction data files.
+- `01_SQL_TASKS` – Individual SQL task files (Tasks 1–9).
+- `02_FINAL_SQL` – Combined SQL file containing all tasks.
+- `03_SQL_SCREENSHOTS` – Screenshots of SQL task outputs.
+- `04_HTML_PROJECT` – HTML files and related screenshots.
+- `05_CORE_JAVA` – Java source files and transaction data files.
   -`Java_Screenshots` – Screenshots of Java program execution outputs.
 
 ## Technologies Used
 
 - SQL
 - HTML
-- Core Java
+- Java
 
 ## Verification
 The assignment outputs are documented through screenshots included in the respective folders.
